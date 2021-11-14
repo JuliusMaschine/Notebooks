@@ -1,0 +1,15 @@
+# Exploratory Data Analysis of Dracula with R
+
+<h1>Exploring Dracula by Bram Stoker</h1>
+
+<h2>Introduction</h2>
+
+<p>One of the best classic books in horror is Bram Stoker's Dracula, where one of the protagonists visits a castle owned by the famed unseen host named Count Dracula. This project will perform basic analysis of the book using NLP techniques on the characters. The source of data will come from Project Gutenberg with the link below. 
+
+[Gutenberg Book](https://www.gutenberg.org/ebooks/345)
+
+
+```{r echo=FALSE}
+library(spacyr)
+librrary(collections)
+```
