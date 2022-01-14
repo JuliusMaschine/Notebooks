@@ -2,7 +2,7 @@
 
 ## tl;dr
 
-**![For the nbviewer](https://nbviewer.org/github/JuliusMaschine/Notebooks/blob/master/NLP/EDA_Dracula.ipynb)**
+**[For the nbviewer](https://nbviewer.org/github/JuliusMaschine/Notebooks/blob/master/NLP/EDA_Dracula.ipynb)**
 
 Using several NLP techniques on the text Dracula by Bram Stoker to investigate it's properties that wouldn't have been otherwise obvious to the reader. It includes the following
 
