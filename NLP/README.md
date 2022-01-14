@@ -14,13 +14,13 @@ One of the best classic books in horror is Bram Stoker's Dracula, where one of t
     * Using spaCy's person entity detecting capabilities we can count the character occurence in text
 
     * Using Person Entity
-        * ![Character Occurence Graphs Using Person Entity!](/JuliusMaschine/Notebooks/tree/master/NLP/character_occurence_prsn_ent.png)
+        * ![Character Occurence Graphs Using Person Entity](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/character_occurence_prsn_ent.png)
 
     * Using Proper Noun Method From spaCy
-        * ![Character Occurence Graphs Using Proper Noun!](/JuliusMaschine/Notebooks/tree/master/NLP/character_occurence_prpr_noun.png)
+        * ![Character Occurence Graphs Using Proper Noun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/character_occurence_prpr_noun.png)
 
     * Direct Comparison of Graphs
-        * ![Character Occurence Graphs Using Person Entity!](/JuliusMaschine/Notebooks/tree/master/NLP/character_occurence_prsn_ent.png)
+        * ![Character Occurence Graphs Using Person Entity](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/character_occurence_comb_graph.png)
 
 * Character Information
     * we count the adjectives following around or after a noun, person entity to determine the most common adjective associated with that person/entity
