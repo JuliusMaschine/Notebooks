@@ -10,6 +10,8 @@ Using several NLP techniques on the text Dracula by Bram Stoker to investigate i
 
 One of the best classic books in horror is Bram Stoker's Dracula, where one of the protagonists visits a castle owned by the famed unseen host named Count Dracula. This project will perform basic analysis of the book using NLP techniques on the characters. The source of data will come from Project Gutenberg with the link below.
 
+[Gutenberg Book](https://www.gutenberg.org/ebooks/345)
+
 ## Brief Overview
 
 * Character Occurence 
@@ -93,6 +95,9 @@ One of the best classic books in horror is Bram Stoker's Dracula, where one of t
 
 * Common Collocations
     * Certain phrases that the author used through out the book that normally go together gives us an insight to the type of how they talked during that time.
+
+    ![Common Collocations](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/mask.jpg)
+
 
 * Summarisation Techniques
     * Using various techniques in summarisation techniques, shows how the summary of the text might've looked like.
