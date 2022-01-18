@@ -96,7 +96,7 @@ One of the best classic books in horror is Bram Stoker's Dracula, where one of t
 * Common Collocations
     * Certain phrases that the author used through out the book that normally go together gives us an insight to the type of how they talked during that time.
 
-    ![Common Collocations](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/mask.jpg)
+    ![Common Collocations](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcloud_drac.png)
 
 
 * Summarisation Techniques
