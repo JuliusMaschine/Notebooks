@@ -57,7 +57,7 @@ One of the best classic books in horror is Bram Stoker's Dracula, where one of t
             * ![Adjectives](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adj.png)
 
         * Preposition
-            * ![Preposition](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcountadp.png)
+            * ![Preposition](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adp.png)
 
         * Pronoun
             * ![Pronoun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_pron_wo_I.png)
