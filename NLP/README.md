@@ -51,25 +51,25 @@ One of the best classic books in horror is Bram Stoker's Dracula, where one of t
 
     * Top 5 Words
         * Proper Noun
-            ![Proper Noun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_prop.png)
+            * ![Proper Noun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_prop.png)
 
         * Adjectives 
-            ![Adjectives](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adj.png)
+            * ![Adjectives](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adj.png)
 
         * Preposition
-            ![Preposition](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcountadp.png)
+            * ![Preposition](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcountadp.png)
 
         * Pronoun
-            ![Pronoun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_pron_wo_I.png)
+            * ![Pronoun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_pron_wo_I.png)
 
         * Adverbs
-            ![Adverb](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adv.png)
+            * ![Adverb](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adv.png)
 
         * Noun
-            ![Noun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_noun.png)
+            * ![Noun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_noun.png)
 
         * Verb
-            ![Verb](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_verb.png)
+            * ![Verb](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_verb.png)
 
 
 * Common Collocations
