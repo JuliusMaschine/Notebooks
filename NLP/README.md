@@ -51,47 +51,26 @@ One of the best classic books in horror is Bram Stoker's Dracula, where one of t
 
     * Top 5 Words
         * Proper Noun
-            * Van Helsing: 317
-            * Lucy: 298 
-            * Mina: 229 
-            * Jonathan: 200 
-            * Count: 191
+            ![Proper Noun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_prop.png)
+
         * Adjectives 
-            * good: 266 
-            * great: 195 
-            * poor: 190 
-            * old: 187 
-            * dear: 168
+            ![Adjectives](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adj.png)
+
         * Preposition
-            * away: 185 
-            * far: 112 
-            * long: 72 
-            * soon: 69 
-            * later 69
+            ![Preposition](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcountadp.png)
+
         * Pronoun
-            * I: 6304 
-            * yer: 9 
-            * everybody: 4
-            * anybody: 3 
-            * em: 2
+            ![Pronoun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_pron_wo_I.png)
+
         * Adverbs
-            * away: 185
-            * far: 112
-            * long: 72
-            * soon: 69
-            * later: 69
+            ![Adverb](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_adv.png)
+
         * Noun
-            * time: 442
-            * man: 402
-            * night: 329
-            * hand: 311
-            * day 274
+            ![Noun](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_noun.png)
+
         * Verb
-            * come: 781 
-            * know: 591 
-            * look: 410 
-            * tell: 377 
-            * think: 354
+            ![Verb](https://github.com/JuliusMaschine/Notebooks/blob/master/NLP/wordcount_verb.png)
+
 
 * Common Collocations
     * Certain phrases that the author used through out the book that normally go together gives us an insight to the type of how they talked during that time.
